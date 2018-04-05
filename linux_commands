@@ -1,0 +1,8 @@
+mkdir dirname -- creates a directory
+cd dirname -- change directory
+pwd -- present working directory-- displays the current directory
+ls -- list the files in the current directory
+ls -la ---list the hidden files in the current directory
+echo some-string --- prints the given string
+echo string >> filename --- appends the string in the given file
+cat file-name --- prints the data in the given file 
